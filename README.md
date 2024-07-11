@@ -18,10 +18,6 @@
 
 Your task is to redesign the given screen using Figma or any other design tool of your choice, with the primary goal of improving the user experience (UX).
 
-## Given Screen
-
-![Ref. UI](image.png)
-
 ## Task Requirements
 
 1. Analyze the given screen and identify areas where the UX can be improved.
@@ -33,3 +29,7 @@ Your task is to redesign the given screen using Figma or any other design tool o
    - Consistency and design patterns
    - Responsiveness and adaptability to different devices
 4. Utilize the provided [UI kit](https://www.figma.com/design/kJdNyLjrI2DhIaW49PpEOd/UI-Starter-Kit?node-id=1823-1994&t=jAJOs1G6qQIqeMNk-1) to maintain a consistent visual language throughout your redesign.
+
+## Given Screen
+
+![Ref. UI](image.png)
